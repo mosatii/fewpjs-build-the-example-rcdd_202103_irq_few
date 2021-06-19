@@ -1,3 +1,4 @@
+
 // Defining text characters for the empty and full hearts for you to use later.
 const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
@@ -8,7 +9,7 @@ const FULL_HEART = '♥'
 
 
 //------------------------------------------------------------------------------
-// Don't change the code below: this function mocks the server response
+// Ignore after this point. Used only for demo purposes
 //------------------------------------------------------------------------------
 
 function mimicServerCall(url="http://mimicServer.example.com", config={}) {
